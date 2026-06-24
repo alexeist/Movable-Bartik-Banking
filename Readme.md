@@ -1,6 +1,3 @@
-README.md
-
-```markdown
 # MBS InfoBoard v1.0.12_en
 
 **Movable Bartik Storage** - A lightweight Wi-Fi based bulletin board system for ESP32 with real-time memory monitoring.
@@ -315,8 +312,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Alexander Eist**
+- GitHub: [@alexeist](https://github.com/alexeist)
 
 ---
 
@@ -336,44 +333,4 @@ If you find this project useful, please give it a ⭐ on GitHub!
 
 **Made with ❤️ for the ESP32 community**
 ```
-
----
-
-## Также добавьте файл `.gitignore`:
-
-```gitignore
-# PlatformIO
-.pio/
-.vscode/
-*.o
-*.d
-*.elf
-*.hex
-
-# Arduino
-*.ino.cpp
-*.ino.d
-build/
-
-# SPIFFS data
-data/data.json
-
-# IDE files
-*.swp
-*.swo
-*~
-
-# OS files
-.DS_Store
-Thumbs.db
-```
-
----
-
-## Краткое описание для репозитория (одна строка):
-
-> **MBS InfoBoard** - Self-contained ESP32 bulletin board with real-time memory monitoring and responsive web interface.
-
----
-
-Этот README содержит всю необходимую информацию для пользователей и разработчиков, чтобы начать работу с вашим проектом. Он хорошо структурирован, содержит эмодзи для визуального разделения и охватывает все важные аспекты проекта! 🚀
+ашим проектом. Он хорошо структурирован, содержит эмодзи для визуального разделения и охватывает все важные аспекты проекта! 🚀
