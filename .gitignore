@@ -1,0 +1,26 @@
+
+
+# PlatformIO
+.pio/
+.vscode/
+*.o
+*.d
+*.elf
+*.hex
+
+# Arduino
+*.ino.cpp
+*.ino.d
+build/
+
+# SPIFFS data
+data/data.json
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
